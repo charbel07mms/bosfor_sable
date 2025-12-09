@@ -46,6 +46,7 @@
 <!-- Contenu des produits -->
 <div class="container mt-5">
     <h1 class="mb-4 text-white">Nos Produits</h1>
+    <a href="{{ route('produit.create') }}" class="btn btn-success mb-3">Ajouter un produit</a>
     <div class="row">
         @foreach($produits as $produit)
             <div class="col-md-3 mb-4">

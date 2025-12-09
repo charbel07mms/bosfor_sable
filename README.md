@@ -46,7 +46,7 @@ Application web développée en **Laravel** permettant de gérer les produits
 
 ### 1️⃣ Cloner le projet
 ```bash
-git clone https://github.com/ton-projet/bosfor-sarl.git
+git clone https://github.com/charbel07mms/bosfor_sable
 cd bosfor-sarl
 ````
 
@@ -137,7 +137,7 @@ php artisan storage:link
 
 ## 📸 Aperçu des pages
 
-*(Ajoute ici tes captures d’écran des pages principales.)*
+
 
 ---
 
