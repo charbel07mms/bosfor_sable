@@ -137,6 +137,13 @@ php artisan storage:link
 
 ## 📸 Aperçu des pages
 
+![alt text](Captures/acceuilbosfor.png) 
+![alt text](Captures/addproduitbosfor.png)
+ ![alt text](Captures/dashbordbosfor.png)
+  ![alt text](Captures/loginbosfor.png)
+   ![alt text](Captures/produitbosfor.png) 
+   ![alt text](Captures/registerbosfor.png)
+
 
 
 ---
